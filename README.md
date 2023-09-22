@@ -1,2 +1,0 @@
-# FirstAssignment
-My first assignment
